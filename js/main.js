@@ -83,6 +83,8 @@ var TextScramble = function () {
 
 var phrases = [
   'Welcome to my page',
+  'I\'m Alan',
+  'My friends call me Shaji Stark',
   'I\'m a frontend developer',
   'But the things I\'ve tried doesn\'t stop there',
   'I\'m a fast learner and good at multi-tasking'
