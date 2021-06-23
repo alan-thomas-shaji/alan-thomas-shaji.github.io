@@ -103,3 +103,13 @@ var next = function next() {
 
 next();
 // End of Scramble Text code
+
+function paadikkoMonuse(e, link){
+  let audio = document.createElement("audio");
+  let src = document.createElement("source");
+  src.src = "https://upload.wikimedia.org/wikipedia/en/4/45/ACDC_-_Back_In_Black-sample.ogg";
+  audio.appendChild(src);
+  audio.play();
+  e.preventDefault();
+
+}
