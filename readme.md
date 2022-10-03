@@ -1,2 +1,2 @@
 # Welcome to my portfoliio!
-## [Click me click me click me I'm so bored!](https://shaji-stark.github.io)
+## [Click me click me click me I'm so bored!](https://alan-thomas-shaji.github.io)
